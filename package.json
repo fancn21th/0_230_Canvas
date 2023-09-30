@@ -1,0 +1,15 @@
+{
+  "name": "canvas-sketch-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "fancn21th <fancn21th@aliyun.com> (http://fancn21th.cn/)",
+  "license": "MIT",
+  "dependencies": {
+    "canvas-sketch": "0.7.7"
+  }
+}
